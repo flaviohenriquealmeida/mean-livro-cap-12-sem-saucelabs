@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/flaviohenriquealmeida/mean-livro-cap-12-sem-saucelabs.svg)](https://travis-ci.org/flaviohenriquealmeida/mean-livro-cap-12-sem-saucelabs)
+
 # mean-livro-codigo
 Não esqueça de executar no console os comandos:
 
